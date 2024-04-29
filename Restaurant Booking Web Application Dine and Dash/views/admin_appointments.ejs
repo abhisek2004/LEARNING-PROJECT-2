@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ADMIN DASHBOARD</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+            }
+
+            h1 {
+                text-align: center;
+                margin-top: 20px;
+            }
+
+            table {
+                width: 80%;
+                margin: 20px auto;
+                border-collapse: collapse;
+            }
+
+            th,
+            td {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+            }
+
+            th {
+                background-color: #f2f2f2;
+            }
+
+            tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>Dine &
+            Dash ADMIN DASHBOARD</h1>
+        <table>
+            <tr>
+                <th>Order ID</th>
+                <th>User</th>
+                <th>Item Name</th>
+                <th>Quantity</th>
+                <th>Price</th>
+            </tr>
+            <% totalData.forEach(function(totalData) { %>
+                <tr>
+                    <td><%= totalData._id %></td>
+                    <td><%= totalData.userName %></td>
+                    <td><%= totalData.name %></td>
+                    <td><%= totalData.quantity %></td>
+                    <td> ₹<%= totalData.price %></td>
+                </tr>
+            <% }); %>
+        </table>
+    </body>
+
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact Us - Restaurant</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f8f9fa;
+            }
+
+            .container {
+                max-width: 800px;
+                margin: 50px auto;
+                background-color: #fff;
+                padding: 20px;
+                border-radius: 10px;
+                box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            }
+
+            h1 {
+                text-align: center;
+                color: #333;
+            }
+
+            .contact-form {
+                margin-top: 30px;
+            }
+
+            .contact-form label {
+                display: block;
+                margin-bottom: 5px;
+                color: #555;
+            }
+
+            .contact-form input[type="text"],
+            .contact-form input[type="email"],
+            .contact-form textarea {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 20px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+            }
+
+            .contact-form textarea {
+                height: 150px;
+            }
+
+            .contact-form input[type="submit"] {
+                background-color: #ff4a57;
+                color: #fff;
+                border: none;
+                padding: 10px 20px;
+                cursor: pointer;
+                border-radius: 5px;
+                transition: background-color 0.3s ease;
+            }
+
+            .contact-form input[type="submit"]:hover {
+                background-color: #ff333f;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>Contact Us</h1>
+            <form class="contact-form" action="#" method="post" onsubmit="showSuccessMessage()">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+                <label for="message">Message</label>
+                <textarea id="message" name="message" required></textarea>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+
+        <script>
+            function showSuccessMessage() {
+                alert("Details submitted successfully!");
+            }
+        </script>
+
+    </body>
+
+</html>

@@ -1,0 +1,435 @@
+[{
+  "_id": "hNu_7Q4HbpqHB9dNPyWVxcorkcuhe7hH",
+  "expires": {
+    "$date": "2024-05-10T18:48:24.715Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "QsgJ5gJ5ztXtTN9HqgULuyACoRBJZbcf",
+  "expires": {
+    "$date": "2024-05-11T08:36:00.084Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "yrhrTcJs2PEJySTijA9KidMmLjWk-oM3",
+  "expires": {
+    "$date": "2024-05-11T08:38:22.407Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "pzFE2vXm7Rkm1GeICI2bhahSLOu17Myu",
+  "expires": {
+    "$date": "2024-05-11T08:39:23.211Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "dCn0qXctDNf5IKzzN2Ta1hinJQKHCE6I",
+  "expires": {
+    "$date": "2024-05-11T08:56:57.310Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "wHqBhRNC3azRSexADIrNvkWwxgsHcIpm",
+  "expires": {
+    "$date": "2024-05-11T09:17:33.811Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "RmSLKPiwrt-2l6Y9n0URq754eEezq5ZI",
+  "expires": {
+    "$date": "2024-05-11T09:27:24.781Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "qgB5iAVQmeTWIbpPTRQiRkw3HDLrZCn0",
+  "expires": {
+    "$date": "2024-05-11T10:08:39.821Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "tujBMd5-czJqt55AQq1n7G9G2lPPqObm",
+  "expires": {
+    "$date": "2024-05-11T10:28:58.404Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b61dcb21377d87b46b170"
+      },
+      "name": "David",
+      "email": "david@gmail.com",
+      "password": "$2b$10$c6nzwoD2RFT1glmji4IHR.4T9fYsJfv2eF3j/PggUqdp5u3mgaCCO",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "QwZJrCL_E0BPSFWMpxsxdKyDmupx0-Zc",
+  "expires": {
+    "$date": "2024-05-11T18:36:12.409Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "HpgNTB56_ElJKCAtcpIHOoZsB4KwRvG1",
+  "expires": {
+    "$date": "2024-05-12T04:25:25.871Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "1wUWVVCNfFCu8f0IR5gN1oyBTOOK3nG2",
+  "expires": {
+    "$date": "2024-05-12T05:14:31.315Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b622cb21377d87b46b176"
+      },
+      "name": "Travis",
+      "email": "travis101@gmail.com",
+      "password": "$2b$10$gI5lqPeJQfbfpdseJCMcU.xkORoOPRNSVDqLvgJW1KK19w2qHVJ.u",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "UQz94P9N2Vij3yUgH44gA43FLF91mrt9",
+  "expires": {
+    "$date": "2024-05-12T05:54:37.379Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "HEpX2OIsblPE5ql5ZN5qSFVfK9tVzYwE",
+  "expires": {
+    "$date": "2024-05-12T05:54:37.418Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+},
+{
+  "_id": "3XtJ5d0dt4Qgw8S7pvuLn1n_vjWS5Z1z",
+  "expires": {
+    "$date": "2024-05-12T06:18:41.198Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "partitioned": null,
+      "priority": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "isLoggedIn": true,
+    "user": {
+      "_id": {
+        "$oid": "662b30021671089b497f21c0"
+      },
+      "name": "Raj",
+      "email": "deba@gmail.com",
+      "password": "$2b$10$w8SJnicz0BZvUSOvjSTDIuBV8e8z3JUSpMonhesF4pdAC4IsJNzoW",
+      "__v": 0
+    }
+  }
+}]
