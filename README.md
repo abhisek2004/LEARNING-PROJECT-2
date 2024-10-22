@@ -1,5 +1,3 @@
-Sure! Here's the updated project description reflecting the tech stack you used:
-
 # LEARNING-PROJECT-2
 ## Restaurant Booking Web Application: Dine and Dash
 
