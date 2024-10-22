@@ -23,39 +23,7 @@ Thank you to everyone who has been part of this incredible journey! 🙏
 
 ### 📸 Project Preview
 
-![Preview 1](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/70f5c94b-9441-47f9-a232-b6797d5f7f65)
 
-![Preview 2](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/d86f25ba-c654-4511-a42e-352c1f39616c)
-
-![Preview 3](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/e8ae2e07-828d-4c09-a62f-8429e6ed3a43)
-
-![Preview 4](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/65e33024-a72f-414b-99c6-469b8b346631)
-
-![Preview 5](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/15148206-27c5-47e7-9295-f14da11ff8de)
-
-![Preview 6](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/1e75555b-3691-428d-860a-83a49dad0d89)
-
-![Preview 7](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/b12978f1-03df-4990-8669-17682253c40c)
-
-![Preview 8](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/bec3eac1-dfb4-449d-b8e2-20b2c8711367)
-
-![Preview 9](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/904c4e43-de53-4d5c-b9ef-f8444c824378)
-
-![Preview 10](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/7cd11c72-f900-41a3-aa1a-e0675345d018)
-
-![Preview 11](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/6cea8fdd-fce5-4113-b3f6-3499022c28fe)
-
-![Preview 12](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/6a641b44-6e0c-4498-b2c3-e40f28432d4b)
-
-![Preview 13](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/4aab9b17-9429-414c-9b21-e6ba028b803c)
-
-![Preview 14](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/48ce410b-6538-43a3-b4d2-97cb7bb89b7f)
-
-![Preview 15](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/9592b296-8c8b-4de5-a0ba-b3f303a41d0a)
-
-![Preview 16](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/865b5b78-5867-4901-8b82-b7f6c79a3cf3)
-
----
 
 ### 🙌 Acknowledgments
 
@@ -248,15 +216,37 @@ The project is actively under development, and contributions are welcome to enha
 
 ### 📸 Website Preview
 
-![Preview 1](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/d46487d3-9daf-4be3-9847-023e3fe67c81)
+![Preview 1](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/70f5c94b-9441-47f9-a232-b6797d5f7f65)
 
-![Preview 2](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/b7066909-51e8-42d6-bf9e-28b78c2e8dbb)
+![Preview 2](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/d86f25ba-c654-4511-a42e-352c1f39616c)
 
-![Preview 3](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/2f113891-1c26-4766-90ac-0e8df77b097c)
+![Preview 3](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/e8ae2e07-828d-4c09-a62f-8429e6ed3a43)
 
-![Preview 4](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/b8b4fccd-99a9-422b-82bf-3e442c60cf4a)
+![Preview 4](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/65e33024-a72f-414b-99c6-469b8b346631)
 
-![Preview 5](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/f6813529-5e33-4fb7-9daa-0ca5a53ba899)
+![Preview 5](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/15148206-27c5-47e7-9295-f14da11ff8de)
+
+![Preview 6](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/1e75555b-3691-428d-860a-83a49dad0d89)
+
+![Preview 7](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/b12978f1-03df-4990-8669-17682253c40c)
+
+![Preview 8](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/bec3eac1-dfb4-449d-b8e2-20b2c8711367)
+
+![Preview 9](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/904c4e43-de53-4d5c-b9ef-f8444c824378)
+
+![Preview 10](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/7cd11c72-f900-41a3-aa1a-e0675345d018)
+
+![Preview 11](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/6cea8fdd-fce5-4113-b3f6-3499022c28fe)
+
+![Preview 12](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/6a641b44-6e0c-4498-b2c3-e40f28432d4b)
+
+![Preview 13](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/4aab9b17-9429-414c-9b21-e6ba028b803c)
+
+![Preview 14](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/48ce410b-6538-43a3-b4d2-97cb7bb89b7f)
+
+![Preview 15](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/9592b296-8c8b-4de5-a0ba-b3f303a41d0a)
+
+![Preview 16](https://github.com/abhisek2004/LEARNING-PROJECT-2/assets/117925314/865b5b78-5867-4901-8b82-b7f6c79a3cf3)
 
 ---
 
